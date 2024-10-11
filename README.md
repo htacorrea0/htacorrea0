@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ágatha Corrêa
-- 👀 I’m interested in tecnology, robots, front-end and databases
+- 👀 I’m interested in technology, robots, front-end and databases
 - 🌱 I’m currently learning Python, C and JavaScript
 - 📫 My LinkedIn: www.linkedin.com/in/agatha-correa-601317300
 - 😄 Pronouns: She/Her
