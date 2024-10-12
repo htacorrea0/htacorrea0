@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Ágatha Corrêa
-- 👀 I’m interested in technology, robots, front-end and databases
-- 🌱 I’m currently learning Python, C and JavaScript
-- 📫 My LinkedIn: www.linkedin.com/in/agatha-correa-601317300
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm brazilian and I'm currently in a robot team at my college
+## Bem-vindo ao perfil de Ágatha Corrêa 😁
 
-<!---
-htacorrea0/htacorrea0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+   <a href="https://github.com/htacorrea0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htacorrea0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htacorrea0&layout=compact&langs_count=6&theme=omni"/>
+</div>
+<br>
+<h3> No momento, estou estudando: </h3>
+<div style="display: inline_block"><br> 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ 
+<br>
+ 
+### Me contate no LinkedIn!
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/agatha-correa-601317300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
